@@ -1,0 +1,5 @@
+Resource scheduler which builds model of executed application
+using machine learning and profiling technologies.
+See report considering application of the idea to JVM,
+Erlang and Linux kernel schedulers in thread "RE:VM design
+and implementation" of my gmail.
